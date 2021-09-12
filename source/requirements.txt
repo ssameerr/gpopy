@@ -1,1 +1,2 @@
 mlflow
+sqlparse>=0.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
